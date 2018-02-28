@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/KNIGHTMASTER/spring-boot-hystrix.svg)](https://travis-ci.org/KNIGHTMASTER/spring-boot-hystrix/)
+[![Build Status](https://travis-ci.org/KNIGHTMASTER/spring-zipkin-example.svg)](https://travis-ci.org/KNIGHTMASTER/spring-zipkin-example/)
 
 # spring-zipkin-example
 Example SpringBoot Application Integrated With Zipkin and Sleuth for Distributed Tracing
